@@ -25,6 +25,6 @@ This is a small tool to calculate by a CIDR notation subnet string the number of
 3. Open Browser on: `localhost:7080`
 4. Click Buttons to see results
 
-(Monitoring: Prometheus endpoint with default JettyStatistics is provided on `localhost:7070`)
+(Monitoring: [Prometheus](https://prometheus.io) endpoint with default JettyStatistics is provided on `localhost:7070`)
 ### Tests
 JUnit Tests are in `\src\test\java\`
