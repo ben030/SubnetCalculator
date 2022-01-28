@@ -22,8 +22,8 @@ This is a small tool to calculate by a CIDR notation subnet string the number of
    ```sh
    java -jar .\target\cidrJava-1.0-SNAPSHOT-jar-with-dependencies.jar
    ```
-3. Open Browser on: `localhost:7080`
-4. Click Buttons to see results
+3. Open browser on: `localhost:7080`
+4. Click buttons to see results
 
 (Monitoring: [Prometheus](https://prometheus.io) endpoint with default JettyStatistics is provided on `localhost:7070`)
 ### Tests
